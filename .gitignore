@@ -1,0 +1,28 @@
+# Visual Studio 项目文件
+.vscode/
+*.sln
+*.vcxproj*
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+
+# Binary 文件
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Unreal 文件
+*.generated.*
+*.log
+*.tmp
+*.user
+*.userprefs
+
+# 忽略 Mac 系统自动生成的文件
+.DS_Store
+
+# 忽略 Backup 和 Autosave
+Backup/
+Autosaves/
